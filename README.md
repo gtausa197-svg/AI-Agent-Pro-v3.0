@@ -139,7 +139,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai_local_agent.git
+   git clone https://github.com/gtausa197-svg/ai_local_agent.git
    cd ai_local_agent
    ```
 
@@ -482,7 +482,7 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/ai_local_agent.git
+git clone https://github.com/gtausa197-svg/ai_local_agent.git
 
 # Install development dependencies
 pip install -r requirements_dev.txt
@@ -528,7 +528,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Original Version**: AI Agent v2.0
 - **Extended Version**: AI Agent Pro v3.0
-- **Contributors**: [See Contributors](https://github.com/yourusername/ai_local_agent/graphs/contributors)
+- **Developer**: [gtausa197-svg](https://github.com/gtausa197-svg)
+- **Contributors**: [See Contributors](https://github.com/gtausa197-svg/ai_local_agent/graphs/contributors)
 
 ---
 
@@ -542,9 +543,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Documentation**: [Wiki](https://github.com/yourusername/ai_local_agent/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai_local_agent/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai_local_agent/discussions)
+- **Documentation**: [Wiki](https://github.com/gtausa197-svg/ai_local_agent/wiki)
+- **Issues**: [GitHub Issues](https://github.com/gtausa197-svg/ai_local_agent/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/gtausa197-svg/ai_local_agent/discussions)
 
 ---
 
@@ -564,7 +565,7 @@ If you find this project useful, please consider:
 
 **🎉 Enjoy your intelligent desktop assistant!**
 
-Made with ❤️ by the AI Agent Community
+Made with ❤️ by **[gtausa197-svg](https://github.com/gtausa197-svg)**
 
 [⬆ Back to Top](#-ai-local-agent---intelligent-desktop-assistant)
 
