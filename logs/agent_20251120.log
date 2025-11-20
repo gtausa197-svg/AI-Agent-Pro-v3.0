@@ -1,0 +1,6 @@
+2025-11-20 12:07:01,914 - root - ERROR - Помилка LM Studio: HTTPConnectionPool(host='localhost', port=1234): Read timed out. (read timeout=90)
+2025-11-20 14:32:01,502 - root - CRITICAL - Failed to start agent: name 'LMStudioClient' is not defined
+2025-11-20 14:32:07,261 - root - CRITICAL - Failed to start agent: name 'LMStudioClient' is not defined
+2025-11-20 14:32:17,771 - root - CRITICAL - Failed to start agent: name 'LMStudioClient' is not defined
+2025-11-20 21:46:00,426 - root - ERROR - Помилка LM Studio: HTTPConnectionPool(host='localhost', port=1234): Read timed out. (read timeout=90)
+2025-11-20 21:47:42,931 - root - ERROR - Помилка LM Studio: HTTPConnectionPool(host='localhost', port=1234): Read timed out. (read timeout=90)
